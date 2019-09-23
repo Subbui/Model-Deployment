@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+We're going to predit test images based on the model saved in the other file
 """
 
 import os
